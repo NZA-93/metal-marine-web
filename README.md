@@ -1,3 +1,1 @@
-# Metal Marine
-
-Playable HTML5 export. Godot source stays on Origin.
+Metal Marine HTML5. Origin is the source of truth.
